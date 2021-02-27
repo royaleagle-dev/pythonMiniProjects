@@ -1,0 +1,6 @@
+This is a document
+
+A text document for
+testing the minifier project
+
+Thank you.
